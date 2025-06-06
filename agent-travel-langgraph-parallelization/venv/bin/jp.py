@@ -1,4 +1,4 @@
-#!/Users/meganharrison/Documents/dev-projects/ottomator-agents/pydantic-ai-langgraph-parallelization/venv/bin/python3
+#!/Users/meganharrison/Documents/github/ai-agents/agent-travel-langgraph-parallelization/venv/bin/python3.13
 
 import sys
 import json

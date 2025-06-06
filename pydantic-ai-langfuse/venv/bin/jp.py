@@ -1,4 +1,4 @@
-#!/Users/meganharrison/Documents/dev-projects/ottomator-agents/pydantic-ai-langfuse/venv/bin/python3
+#!/Users/meganharrison/Documents/github/ai-agents/pydantic-ai-langfuse/venv/bin/python3.13
 
 import sys
 import json
